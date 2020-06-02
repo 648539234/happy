@@ -1,0 +1,11 @@
+application:
+  active: Windows 7
+
+person:
+  information:
+    name: 龙神
+    age: 18
+    boss: false
+    birth: 1997/04/12
+redirectUrl:
+  "{name:'zhangsan',sex:'man'}"
